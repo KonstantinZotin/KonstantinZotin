@@ -20,4 +20,4 @@ __РАБОТАЮ ПО ОФОРМЛЕННОМУ, ЧЕТКОМУ ТЗ. СРОКИ 
 
 # Мои работы
 1. __[МОД-КЛИЕНТ/CЕРВЕР-ПЛАГИН]__ (1.5.2-1.12.2) HuskyGuard, внутриигровая защита. <br>
-![alt text](screenshots/anticheat.png "Личный кабинет")
+![alt text](anticheat.png "HuskyGuard")
